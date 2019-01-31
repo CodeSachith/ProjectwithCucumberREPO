@@ -1,0 +1,7 @@
+13:51:45.560 [main] INFO  Academy.validateTitle - Navigated to Home page
+13:51:51.450 [main] INFO  Academy.HomePage - Driver is initialized
+13:52:23.998 [main] INFO  Academy.HomePage - Login test pass
+13:52:25.303 [main] INFO  Academy.HomePage - Login test pass
+13:52:25.974 [main] INFO  Academy.HomePage - Login test pass
+13:52:29.237 [main] INFO  Academy.validateNavigationBar - Driver is initialized
+13:52:32.893 [main] INFO  Academy.validateNavigationBar - validateContact is pass
